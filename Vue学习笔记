@@ -13,4 +13,5 @@
    4.v-for指令
    5.v-bind指令
    6.v-on指令
+   7.v-moedl 指令 表单元素赋值都用v-model
    
